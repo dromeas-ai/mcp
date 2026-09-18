@@ -1,0 +1,12 @@
+{
+  "name": "dromeas-mcp",
+  "description": "Connect Dromeas to Claude, Cursor, Copilot or any MCP client. OAuth 2.1 with 60+ tools for code review, Code Map, and releases.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Dromeas"
+  },
+  "homepage": "https://dromeas.ai/mcp",
+  "repository": "https://github.com/dromeas-ai/mcp",
+  "license": "MIT",
+  "keywords": ["mcp", "code-review", "dromeas", "security", "releases"]
+}

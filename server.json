@@ -1,0 +1,15 @@
+{
+  "name": "io.github.dromeas-ai/mcp",
+  "description": "Dromeas MCP: OAuth 2.1 code review, Code Map & release tools for Claude/Cursor.",
+  "repository": {
+    "url": "https://github.com/dromeas-ai/mcp",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.dromeas.ai/mcp"
+    }
+  ]
+}
