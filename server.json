@@ -1,4 +1,5 @@
 {
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.dromeas-ai/mcp",
   "description": "Dromeas MCP: OAuth 2.1 code review, Code Map & release tools for Claude/Cursor.",
   "repository": {
